@@ -1,3 +1,3 @@
 # sportswikdemo
 Demo for things I did at Sportswik
-<iframe src='https://gfycat.com/ifr/FrenchFrayedDoctorfish' frameborder='0' scrolling='no' width='338' height='572' allowfullscreen></iframe><p> <a href="https://gfycat.com/gifs/detail/FrenchFrayedDoctorfish">via Gfycat</a></p>
+<div style='position:relative;padding-bottom:54%'><iframe src='https://gfycat.com/ifr/FrenchFrayedDoctorfish' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/gifs/detail/FrenchFrayedDoctorfish">via Gfycat</a></p>
