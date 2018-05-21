@@ -1,3 +1,4 @@
 # sportswikdemo
 Demo for things I did at Sportswik
-<div style='position:relative;padding-bottom:54%'><iframe src='https://gfycat.com/ifr/FrenchFrayedDoctorfish' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/gifs/detail/FrenchFrayedDoctorfish">via Gfycat</a></p>
+
+![Alt Text](https://thumbs.gfycat.com/FrenchFrayedDoctorfish-size_restricted.gif)
