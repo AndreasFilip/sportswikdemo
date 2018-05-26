@@ -1,5 +1,5 @@
 # sportswikdemo
-Demo for things I did at Sportswik
+Demo for things I did at Sportswik here's a link to it on google play : https://play.google.com/store/apps/details?id=com.sportswik.android&hl=sv
 
 I did the outer onboarding tutourial seen below
 
